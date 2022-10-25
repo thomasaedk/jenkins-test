@@ -4,7 +4,6 @@ pipeline {
     options {
         sidebarLinks([
             [displayName: 'Side Bar Example 1', iconFileName: '', urlName: 'http://example.com']
-            [displayName: 'Side Bar Example 2', iconFileName: '', urlName: 'http://example.com']
         ])
     }
 
